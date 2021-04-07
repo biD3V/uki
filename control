@@ -1,0 +1,12 @@
+Package: com.bid3v.uki
+Name: uki
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Float your package headers!
+Maintainer: biD3V
+Author: biD3V
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000)
+Depiction: https://bid3v.github.io/repo/depictions/uki.html
+Icon: https://bid3v.github.io/repo/icons/uki.png
+Sileodepiction: https://bid3v.github.io/repo/depictions/sileo/uki.json
